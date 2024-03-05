@@ -2,7 +2,7 @@
 
 Catexplode website ![YIPPIEEE](https://community.akamai.steamstatic.com/economy/emoticon/steamhappy)
 
-Originally made & hosted by `vvda#1189`.
+Idea originally made by `vvda#1189`.
 
 [Join the discord!](https://discord.gg/psp)
 
